@@ -14,21 +14,23 @@ Work experience
 ======
 
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Economist, European Central Bank (Since Sept 2018)
+  * DG-Economics, Monetary Policy Strategy division
+  * On leave from Banque de France, short-term expert contract (ESCB/IO)
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Economist, Banque de France  (2014-2018)
+  * DG-Economics, Monetary policy and financial research division  
+  
+* Market operations expert, Banque de France (2012-2013)
+  * DG-Market Operations, FX trading desk
+  
+* Market analyst, Banque de France (2009-2012)
+  * DG-Market Operations, Market analysis team
   
 Education
 ======
 * PhD in Economics, Paris Pantheon-Sorbonne University, 2018
-   > PhD supervisor: Hubert Kempf (Paris Saclay)
-   
+   > PhD supervisor: Hubert Kempf (Paris Saclay)  
    > PhD examiners: Denis Gromb (HEC Paris), René Garcia (U. Montreal, TSE), Florian Heider (ECB)
 * M.Res. in Economics and Finance, Bordeaux IV University, 2009
 * Master's degree, Sciences Po Bordeaux, 2008
