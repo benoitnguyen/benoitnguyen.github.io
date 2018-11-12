@@ -12,6 +12,8 @@ redirect_from:
 
 Work experience
 ======
+
+
 * Summer 2015: Research Assistant
   * Github University
   * Duties included: Tagging issues
@@ -25,8 +27,11 @@ Work experience
 Education
 ======
 * PhD in Economics, Paris Pantheon-Sorbonne University, 2018
-  PhD examiners: Denis Gromb (HEC Paris), René Garcia (U. Montreal, TSE), Florian Heider (ECB)
+   > PhD supervisor: Hubert Kempf (Paris Saclay)
+   
+   > PhD examiners: Denis Gromb (HEC Paris), René Garcia (U. Montreal, TSE), Florian Heider (ECB)
 * M.Res. in Economics and Finance, Bordeaux IV University, 2009
+* Master's degree, Sciences Po Bordeaux, 2008
   
 Skills
 ======
