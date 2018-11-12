@@ -9,11 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
 
 Work experience
 ======
@@ -26,6 +21,12 @@ Work experience
   * Github University
   * Duties included: Merging pull requests
   * Supervisor: Professor Hub
+  
+Education
+======
+* PhD in Economics, Paris Pantheon-Sorbonne University, 2018
+  PhD examiners: Denis Gromb (HEC Paris), René Garcia (U. Montreal, TSE), Florian Heider (ECB)
+* M.Res. in Economics and Finance, Bordeaux IV University, 2009
   
 Skills
 ======
