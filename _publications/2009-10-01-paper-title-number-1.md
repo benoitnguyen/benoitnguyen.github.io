@@ -1,15 +1,15 @@
 ---
-title: "Paper Title Number 1"
+title: "Price impact of bond supply shocks: Evidence from the Eurosystem’s asset purchase program"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
+permalink: /publication/2017-03-01_AN
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+date: 2017-03-01
+venue: 'Banque de France Working paper #623'
+paperurl: 'https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2952363'
+citation: 'Arrata, William and Nguyen, Benoît (March 2017) Price Impact of Bond Supply Shocks: Evidence from the Eurosystem's Asset Purchase Program  <i>Journal 1</i>.'
 ---
-This paper is about the number 1. The number 2 is left for future work.
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
+We use new daily security-level data and test the impact of the Eurosystem’s Public sector purchase program (PSPP) on bond returns in the French bond market. We investigate three possible types of supply shocks: related to the cumulative past purchases (“stock”) since the start of the program, the transactions themselves on the day of the purchase (“flow”), and the variation in the expected total size of the program (“expected stock”). Our results show that having purchased 10% of a bond outstanding correlates with a decrease in yield of about -13 bps to -26 bps on average in the first year of implementation of the program, with larger effects in the most illiquid segments. Set aside very particular conditions, we don’t find any significant supplemental effect from flows, presumably in line with the market neutrality objective of the Eurosystem. We then focus on the European bond sell-off period during the spring-summer 2015, and show it was associated with a reduction of the total size of the program expected by market participants, suggesting an Odyssean vs Delphic type of issue for the central bank’s communication on asset purchases.
 
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+Keywords: QE, asset purchase programs, bond supply, unconventional monetary policy.  
+JEL classification: E52, E58, G11, G12
