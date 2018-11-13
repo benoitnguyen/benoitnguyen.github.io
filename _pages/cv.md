@@ -10,22 +10,28 @@ redirect_from:
 {% include base_path %}
 
 
+In short
+======
+
+I'm a trained research economist with 10+ years of experience in central banking. I had several positions in core central bank activities, from market operations, policy briefing and applied academic research. My current topic of research...
+I'm also teaching monetary economics in Sciences Po Paris and in Bordeaux.
+
 Work experience
 ======
 
 
 * Economist, European Central Bank (Since Sept 2018)
-  * DG-Economics, Monetary Policy Strategy division
-  * On leave from Banque de France, short-term expert contract (ESCB/IO)
+  > DG-Economics, Monetary Policy Strategy division  
+  > On leave from Banque de France, short-term expert contract (ESCB/IO)
 
 * Economist, Banque de France  (2014-2018)
-  * DG-Economics, Monetary policy and financial research division  
+  > DG-Economics, Monetary policy and financial research division  
   
 * Market operations expert, Banque de France (2012-2013)
-  * DG-Market Operations, FX trading desk
+  > DG-Market Operations, FX trading desk
   
 * Market analyst, Banque de France (2009-2012)
-  * DG-Market Operations, Market analysis team
+  > DG-Market Operations, Market analysis team
   
 Education
 ======
