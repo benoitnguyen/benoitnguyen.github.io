@@ -13,7 +13,7 @@ I'm a trained research economist with 10 years of experience in central banking.
 My latest papers focus on quantitative assessment of unconventional monetary policies, their impact on bond prices, repo rates and on portfolio allocations. 
 I'm currently economist in the Monetary Policy Strategy division at the ECB, on leave from Banque de France.
 
-My full cv [here](./files/cv_102018.pdf) 
+My full cv [here](../files/cv_102018.pdf) 
 
 Work experience
 ======
