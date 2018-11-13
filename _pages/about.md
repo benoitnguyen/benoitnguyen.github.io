@@ -16,7 +16,8 @@ On these pages, you will find my latest papers, presentations and participations
 
 [More about me](/cv/)
 
-[Repec](https://ideas.repec.org/f/png225.html) |  [SSRN](https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=2591810)
+[Repec](https://ideas.repec.org/f/png225.html)  
+[SSRN](https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=2591810)
 
 
 <!---
