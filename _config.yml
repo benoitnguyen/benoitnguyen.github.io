@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Benoit Nguyen"
+title                    : "Home"
 title_separator          : "-"
 name                     : &name "Benoit Nguyen"
 description              : &description "Research economist, monetary policy and finance"
