@@ -30,8 +30,8 @@ Work experience
   
 Education
 ======
-* PhD in Economics, Paris Pantheon-Sorbonne University, 2018
-   *Three essays on unconventional monetary policies*   
+* PhD in Economics, Paris Pantheon-Sorbonne University, 2018  
+   *Three essays on unconventional monetary policies*
    > PhD supervisor: Hubert Kempf (Paris Saclay)  
    > PhD examiners: Denis Gromb (HEC Paris), René Garcia (U. Montreal, TSE), Florian Heider (ECB)  
    
