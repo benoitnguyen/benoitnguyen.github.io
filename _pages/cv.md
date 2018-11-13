@@ -9,17 +9,12 @@ redirect_from:
 
 {% include base_path %}
 
-
-In short
-======
-
-I'm a trained research economist with 10+ years of experience in central banking. I had several positions in core central bank activities, from market operations, policy briefing and applied academic research. My current topic of research...
-I'm also teaching monetary economics in Sciences Po Paris and in Bordeaux.
+I'm a trained research economist with 10 years of experience in central banking. I held several positions in core central bank activities, from market operations, policy briefing and research. I hold a PhD in Economics from Paris 1 Sorbonne University. 
+My latest papers focus on quantitative assessment of unconventional monetary policies, their impact on bond prices, repo rates and on portfolio allocations. 
+I'm currently economist in the Monetary Policy Strategy division at the ECB, on leave from Banque de France.
 
 Work experience
 ======
-
-
 * Economist, European Central Bank (Since Sept 2018)
   > DG-Economics, Monetary Policy Strategy division  
   > On leave from Banque de France, short-term expert contract (ESCB/IO)
@@ -36,19 +31,19 @@ Work experience
 Education
 ======
 * PhD in Economics, Paris Pantheon-Sorbonne University, 2018
+   *Three essays on unconventional monetary policies*   
    > PhD supervisor: Hubert Kempf (Paris Saclay)  
-   > PhD examiners: Denis Gromb (HEC Paris), René Garcia (U. Montreal, TSE), Florian Heider (ECB)
+   > PhD examiners: Denis Gromb (HEC Paris), René Garcia (U. Montreal, TSE), Florian Heider (ECB)  
+   
 * M.Res. in Economics and Finance, Bordeaux IV University, 2009
 * Master's degree, Sciences Po Bordeaux, 2008
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Data science methods, extensive experience in handling large datasets
+* Panel econometrics, financial mathematics, portfolio optimization theory
+* Stata, R, Matlab, Eviews, Python
+* Latex
 
 Publications
 ======
@@ -70,4 +65,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Referee in Journal of Monetary Economics
