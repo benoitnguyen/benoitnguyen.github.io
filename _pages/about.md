@@ -8,11 +8,12 @@ redirect_from:
   - /about.html
 ---
 
-I'm a trained research economist with 10 years of experience in central banking. I held several positions in core central bank activities, from market operations, policy briefing and research. I hold a PhD in Economics from Paris 1 Pantheon-Sorbonne University. 
+I'm a research economist with 10 years of experience in central banking. I held several positions in core central bank activities, from market operations, policy briefing and research. I hold a PhD in Economics from Paris 1 Pantheon-Sorbonne University. My fields of interest are monetary policy implementation, asset pricing and macrofinance.
 My latest papers focus on quantitative assessment of unconventional monetary policies, their impact on bond prices, repo rates and on portfolio allocations.  
 I'm currently economist in the Monetary Policy Strategy division at the ECB, on leave from Banque de France.
 
-On these pages, you will find my latest papers, presentations and participations to conferences.
+On these pages, you will find my latest papers, presentations and participations to conferences.  
+Papers and presentation materials available on this website reflect my sole opinions and those of my coauthors, and do not express the views of our respective institutions.
 
 [More about me](/cv/)
 
