@@ -13,7 +13,7 @@ My latest papers focus on quantitative assessment of unconventional monetary pol
 I'm currently economist in the Monetary Policy Strategy division at the ECB, on leave from Banque de France.
 
 On these pages, you will find my latest papers, presentations and participations to conferences.  
-Papers and presentation materials available on this website reflect my sole opinions and those of my coauthors, and do not express the views of our respective institutions.
+Papers and presentation materials available on this website reflect my sole opinions and those of my coauthors, and do not express the views of my institutions.
 
 [More about me](/cv/)
 
