@@ -24,11 +24,7 @@ On these pages, you will find my latest papers, presentations and participations
 [SSRN](https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=2591810)
 
 
-<!---
-{% twitter https://twitter.com/benoit_nguyen maxwidth=500 limit=5 %}
-
-<div class='jekyll-twitter-plugin'>
-</div>
+<!--
 
 
 
