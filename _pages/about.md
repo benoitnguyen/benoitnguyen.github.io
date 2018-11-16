@@ -20,7 +20,7 @@ Papers and presentation materials available on this website reflect my sole opin
 [Repec](https://ideas.repec.org/f/png225.html)  
 [SSRN](https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=2591810)
 
-{% twitter https://twitter.com/benoitnguyen maxwidth=500 limit=5 %}
+{% twitter https://twitter.com/benoit_nguyen maxwidth=500 limit=5 %}
 
 
 <!---
