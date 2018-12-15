@@ -9,4 +9,4 @@ date: 2018-12-13
 location: "Frankfurt-am-Main, Germany"
 ---
 
-[More information here](http://example2.com)
+[Presentation here](../files/Discussion_Nguyen.pdf)
