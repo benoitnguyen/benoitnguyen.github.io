@@ -227,14 +227,14 @@ defaults:
       share: true
       comments: true
    # _wp
-  - scope:
-      path: ""
-      type: wp
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comments: true
+ # - scope:
+  #    path: ""
+  #    type: wp
+   # values:
+    #  layout: single
+     # author_profile: true
+      # share: true
+     # comments: true
   # _portfolio
   # - scope:
    #   path: ""
