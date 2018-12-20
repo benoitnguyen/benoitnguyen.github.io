@@ -15,8 +15,8 @@ I'm currently economist in the Monetary Policy Strategy division at the ECB, on 
 
 My full cv [here](../files/cv_102018.pdf) 
 
-### Work experience
-======
+### Work experience  
+---
 * Economist, European Central Bank (Since Sept 2018)
   > DG-Economics, Monetary Policy Strategy division  
   > On leave from Banque de France, short-term expert contract (ESCB/IO)
@@ -30,8 +30,8 @@ My full cv [here](../files/cv_102018.pdf)
 * Market analyst, Banque de France (2009-2012)
   > DG-Market Operations, Market analysis team
   
-### Education
-======
+### Education  
+---
 * PhD in Economics, Paris Pantheon-Sorbonne University, 2018  
    *Three essays on unconventional monetary policies*
    > PhD supervisor: Hubert Kempf (Paris Saclay)  
@@ -41,30 +41,30 @@ My full cv [here](../files/cv_102018.pdf)
 * Master's degree, Sciences Po Bordeaux, 2008
   
 ### Skills
-======
+---
 * Data science methods, extensive experience in handling large datasets
 * Panel econometrics, financial mathematics, portfolio optimization theory
 * Stata, R, Matlab, Eviews, Python
 * Latex
 
-### Publications
-======
+### Publications  
+---
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-### Talks
-======
+### Talks  
+---
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
   
-### Teaching
-======
+### Teaching  
+---
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-### Professional service 
-======
+### Professional service   
+---
 * Referee in Journal of Monetary Economics
