@@ -53,7 +53,7 @@ My full cv [here](../files/cv_102018.pdf)
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
+### Talks
 ======
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
