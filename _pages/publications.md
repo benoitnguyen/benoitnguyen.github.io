@@ -23,8 +23,14 @@ author_profile: true
 {% endfor %}
 --->
 
+```
+No language indicated, so no syntax highlighting. 
+```
+
 ### Publications
+***
 {% for post in pubjl reversed%} {% include archive-single.html %} {% endfor %}
 
 ### Working papers
+***
 {% for post in pubwp reversed%} {% include archive-single.html %} {% endfor %}
