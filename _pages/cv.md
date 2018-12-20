@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: ""
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -15,7 +15,7 @@ I'm currently economist in the Monetary Policy Strategy division at the ECB, on 
 
 My full cv [here](../files/cv_102018.pdf) 
 
-Work experience
+### Work experience
 ======
 * Economist, European Central Bank (Since Sept 2018)
   > DG-Economics, Monetary Policy Strategy division  
@@ -30,24 +30,24 @@ Work experience
 * Market analyst, Banque de France (2009-2012)
   > DG-Market Operations, Market analysis team
   
-Education
+### Education
 ======
 * PhD in Economics, Paris Pantheon-Sorbonne University, 2018  
    *Three essays on unconventional monetary policies*
    > PhD supervisor: Hubert Kempf (Paris Saclay)  
-   > PhD examiners: Denis Gromb (HEC Paris), René Garcia (U. Montreal, TSE), Florian Heider (ECB)  
+   > PhD external examiners: Denis Gromb (HEC Paris), René Garcia (U. Montreal, TSE), Florian Heider (ECB)  
    
 * M.Res. in Economics and Finance, Bordeaux IV University, 2009
 * Master's degree, Sciences Po Bordeaux, 2008
   
-Skills
+### Skills
 ======
 * Data science methods, extensive experience in handling large datasets
 * Panel econometrics, financial mathematics, portfolio optimization theory
 * Stata, R, Matlab, Eviews, Python
 * Latex
 
-Publications
+### Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
@@ -59,12 +59,12 @@ Talks
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
   
-Teaching
+### Teaching
 ======
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Professional service 
+### Professional service 
 ======
 * Referee in Journal of Monetary Economics
