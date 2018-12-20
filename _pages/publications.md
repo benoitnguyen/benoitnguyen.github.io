@@ -23,10 +23,10 @@ author_profile: true
 {% endfor %}
 --->
 
-### Publications
+## Publications
 ***
 {% for post in pubjl reversed%} {% include archive-single.html %} {% endfor %}
 
-### Working papers
+## Working papers
 ***
 {% for post in pubwp reversed%} {% include archive-single.html %} {% endfor %}
