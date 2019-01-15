@@ -4,7 +4,7 @@ title: ""
 permalink: /publications/
 author_profile: true
 ---
-
+<font size="-2">
 {% assign pubjl = site.publications | where: "iswp", false %} {% assign pubwp = site.publications | where: "iswp", true %}
 
 <!---  
@@ -30,3 +30,4 @@ author_profile: true
 ## Working papers
 ***
 {% for post in pubwp reversed%} {% include archive-single.html %} {% endfor %}
+</font>
