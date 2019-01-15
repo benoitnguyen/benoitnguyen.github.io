@@ -24,12 +24,12 @@ author_profile: true
 
 ## Publications
 ***
-<font size="-1">
+<font size="-0.5">
 {% for post in pubjl reversed%} {% include archive-single.html %} {% endfor %}
 </font>
 
 ## Working papers
 ***
-<font size="-1">
+<font size="-0.5">
 {% for post in pubwp reversed%} {% include archive-single.html %} {% endfor %}
 </font>
