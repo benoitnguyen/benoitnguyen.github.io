@@ -7,13 +7,17 @@ redirect_from:
   - /resume
 ---
 
+Download [here](cv_022019.pdf) 
+<embed src="../files/cv_022019.pdf" type="application/pdf" />
+
+<!--
 {% include base_path %}
 
 I'm a research economist with 10 years of professional experience in central banking. I held several positions in core central bank activities, from market operations, policy briefing and research. I hold a PhD in Economics from Paris 1 Sorbonne University. 
 My latest papers focus on quantitative assessment of unconventional monetary policies, their impact on bond prices, repo rates and on portfolio allocations. 
 I'm currently economist in the Monetary Policy Strategy division at the ECB, on leave from Banque de France.
 
-My full cv [here](../files/cv_102018.pdf) 
+
 
 ### Work experience  
 ---
@@ -68,3 +72,4 @@ My full cv [here](../files/cv_102018.pdf)
 ### Professional service   
 ---
 * Referee in Journal of Monetary Economics
+--!>
