@@ -25,11 +25,11 @@ author_profile: true
 ## Publications
 -----
 <font size="-0.5">
-{% for post in pubjl reversed%} {% include archive-single.html %} {% endfor %}
+{% for post in pubjl reversed%} {% include archive-publications.html %} {% endfor %}
 </font>
 
 ## Working papers
 -----
 <font size="-0.5">
-{% for post in pubwp reversed%} {% include archive-single.html %} {% endfor %}
+{% for post in pubwp reversed%} {% include archive-publications.html %} {% endfor %}
 </font>
