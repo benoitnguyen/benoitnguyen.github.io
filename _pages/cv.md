@@ -8,6 +8,6 @@ redirect_from:
 ---
 
 Download [here](cv_042019.pdf) 
-<embed src="../files/cv_042019.pdf" type="application/pdf" />
+<embed src="../../files/cv_042019.pdf" type="application/pdf" />
 
 
