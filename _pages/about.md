@@ -22,7 +22,7 @@ I'm currently senior economist in the monetary policy and finance research depar
 
 <!-- [More about me](/cv/) !-->
 
-[Repec](https://ideas.repec.org/f/png225.html)  [SSRN](https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=2591810)
+[[Repec]](https://ideas.repec.org/f/png225.html)  [[SSRN]](https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=2591810) [[ResearchGate]](https://www.researchgate.net/profile/Benoit_Nguyen/research)
 
 
 <!--
