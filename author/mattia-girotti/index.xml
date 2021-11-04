@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mattia Girotti | Benoît Nguyen</title>
+    <link>/author/mattia-girotti/</link>
+      <atom:link href="/author/mattia-girotti/index.xml" rel="self" type="application/rss+xml" />
+    <description>Mattia Girotti</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Nov 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
+      <title>Mattia Girotti</title>
+      <link>/author/mattia-girotti/</link>
+    </image>
+    
+    <item>
+      <title>A tiering rule to balance the impact of negative rates policy on banks</title>
+      <link>/publication/preprint/gns/</link>
+      <pubDate>Mon, 01 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/preprint/gns/</guid>
+      <description>&lt;!--
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
+!--&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

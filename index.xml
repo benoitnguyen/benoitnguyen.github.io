@@ -5,12 +5,38 @@
     <link>/</link>
       <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <description>Benoît Nguyen</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Aug 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 03 Nov 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
       <title>Benoît Nguyen</title>
       <link>/</link>
     </image>
+    
+    <item>
+      <title>Stablecoins and the real economy</title>
+      <link>/publication/preprint/bgn/</link>
+      <pubDate>Wed, 03 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/preprint/bgn/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A tiering rule to balance the impact of negative rates policy on banks</title>
+      <link>/publication/preprint/gns/</link>
+      <pubDate>Mon, 01 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/preprint/gns/</guid>
+      <description>&lt;!--
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
+!--&gt;
+</description>
+    </item>
     
     <item>
       <title>Should we pay banks to lend? Evidence from the Eurosystem’s TLTRO and the euro area credit registry</title>

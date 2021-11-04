@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Paul Gardin | Benoît Nguyen</title>
+    <link>/author/paul-gardin/</link>
+      <atom:link href="/author/paul-gardin/index.xml" rel="self" type="application/rss+xml" />
+    <description>Paul Gardin</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 03 Nov 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
+      <title>Paul Gardin</title>
+      <link>/author/paul-gardin/</link>
+    </image>
+    
+    <item>
+      <title>Stablecoins and the real economy</title>
+      <link>/publication/preprint/bgn/</link>
+      <pubDate>Wed, 03 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/preprint/bgn/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
