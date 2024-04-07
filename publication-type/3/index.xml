@@ -1,40 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>3 | Benoît Nguyen</title>
-    <link>/publication-type/3/</link>
-      <atom:link href="/publication-type/3/index.xml" rel="self" type="application/rss+xml" />
+    <title>3 | Benoit Nguyen</title>
+    <link>https://benoitnguyen.github.io/publication-type/3/</link>
+      <atom:link href="https://benoitnguyen.github.io/publication-type/3/index.xml" rel="self" type="application/rss+xml" />
     <description>3</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Feb 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Feb 2021 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/images/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
+      <url>https://benoitnguyen.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>3</title>
-      <link>/publication-type/3/</link>
+      <link>https://benoitnguyen.github.io/publication-type/3/</link>
     </image>
     
     <item>
-      <title>Showing off cleaner hands: mandatory climate-related disclosure by financial institutions and the financing of fossil energy</title>
-      <link>/publication/preprint/jsmbn/</link>
-      <pubDate>Mon, 01 Feb 2021 00:00:00 +0000</pubDate>
-      <guid>/publication/preprint/jsmbn/</guid>
-      <description>&lt;!--
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
-  &lt;/div&gt;
-&lt;/div&gt;
-
-
-Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
-!--&gt;
-</description>
-    </item>
-    
-    <item>
       <title>The dynamic effects of the ECB&#39;s asset purchases: a survey-based identification</title>
-      <link>/publication/preprint/slbn/</link>
+      <link>https://benoitnguyen.github.io/publication/preprint/slbn/</link>
       <pubDate>Mon, 01 Feb 2021 00:00:00 +0000</pubDate>
-      <guid>/publication/preprint/slbn/</guid>
+      <guid>https://benoitnguyen.github.io/publication/preprint/slbn/</guid>
       <description></description>
     </item>
     

@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Journal-Article | Benoit Nguyen</title>
+    <link>https://benoitnguyen.github.io/publication-type/journal-article/</link>
+      <atom:link href="https://benoitnguyen.github.io/publication-type/journal-article/index.xml" rel="self" type="application/rss+xml" />
+    <description>Journal-Article</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 21 Nov 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://benoitnguyen.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Journal-Article</title>
+      <link>https://benoitnguyen.github.io/publication-type/journal-article/</link>
+    </image>
+    
+    <item>
+      <title>Inspecting the mechanism of quantitative easing in the euro area</title>
+      <link>https://benoitnguyen.github.io/publication/journal-article/kkny/</link>
+      <pubDate>Sat, 21 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>https://benoitnguyen.github.io/publication/journal-article/kkny/</guid>
+      <description>&lt;!--
+
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+
+
+
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
+!--&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>The Scarcity Effect of Quantitative Easing on Repo Rates: Evidence from the Euro Area</title>
+      <link>https://benoitnguyen.github.io/publication/journal-article/anrrv/</link>
+      <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
+      <guid>https://benoitnguyen.github.io/publication/journal-article/anrrv/</guid>
+      <description>&lt;!--
+
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
+!--&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
